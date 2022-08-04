@@ -22,7 +22,7 @@
 * selector: white osztály
 * 5. kitöltőszín: fehér
 */
-.btn.bg-blue-ui.white.read {
+.white {
   color: white;
 }
 
@@ -71,7 +71,7 @@ figure img{width:300px;}
 * 15. szélesség: 8 pixel
 * 16. magasság: 8 pixel
 */
-.blog .carousel-indicators {
+.blog .carousel-indicators li {
   background-color: #708198;
   border-radius: 50%;
   width: 8px;
